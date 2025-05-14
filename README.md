@@ -12,7 +12,7 @@ To get everything up and running, follow these steps:
 2. Install the necessary dependencies:
    ```bash
    npm install
-````
+   ```
 
 3. Start the backend server:
 
